@@ -1,0 +1,82 @@
+[
+    {
+        "question": "What is the meaning of the universe?",
+        "id": 1
+    },
+    {
+        "question": "What is the prop tip speed on a motorglider?",
+        "id": 2
+    },
+    {
+        "question": "Why is a motorglider called a motorglider?",
+        "id": 3
+    },
+    {
+        "question": "Why is the answer to life 42?",
+        "id": 4
+    },
+    {
+        "question": "What is 'this.' in this context? What about that context?",
+        "id": 5
+    },
+    {
+        "question": "Why did the cat cross the road?",
+        "id": 6
+    },
+    {
+        "question": "This is not a question, but check out my baby!",
+        "id": 7
+    },
+    {
+        "question": "How do I know when to break up a component into another component, and then into another component?",
+        "id": 8
+    },
+    {
+        "question": "Did you know routing was actually one of the easiest parts of React?",
+        "id": 9
+    },
+    {
+        "question": "Why does match.params not equal to this.match.params, and why don't they match?",
+        "id": 10
+    },
+    {
+        "question": "Why can't match.params be passed down indefinitely?",
+        "id": 11
+    },
+    {
+        "question": "How many states could a state state, if a state could state state?",
+        "id": 12
+    },
+    {
+        "question": "What is infinity divided by 0?",
+        "id": 13
+    },
+    {
+        "question": "Is infinity truthy?",
+        "id": 14
+    },
+    {
+        "question": "If a truthy and a falsy fell in love, would their offspring be truthy or falsy?",
+        "id": 15
+    },
+    {
+        "question": "What's the difference between the shadow DOM and the virtual DOM?",
+        "id": 16
+    },
+    {
+        "question": "Is free will for real or just an illusion?",
+        "id": 17
+    },
+    {
+        "question": "Can you give an example of using a recursive function within a recursive function?",
+        "id": 18
+    },
+    {
+        "question": "How do you avoid getting into callback hell when using promises?",
+        "id": 19
+    },
+    {
+        "question": "Was that a typo or was that your cat?",
+        "id": 20
+    }
+]

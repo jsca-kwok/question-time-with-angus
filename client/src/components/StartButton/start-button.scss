@@ -1,0 +1,16 @@
+.start-button {
+    background-color: rgba(0,0,0,0.5);
+    color: greenyellow;
+    font-weight: bold;
+    height: 40px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    box-shadow: 5px 5px rgba(0,0,0,0.2);
+    border: 2px white solid;
+    &:hover {
+        transform: scale(1.2);
+    }
+}

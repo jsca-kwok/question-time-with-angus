@@ -1,0 +1,26 @@
+.question-container {
+    background-color: rgba(0,0,0,0.7);
+    height: 500px;
+    width: 650px;
+    margin-top: -350px;
+    margin-right: 50px;
+    border-radius: 15px;
+    border: white 2px solid;
+    box-shadow: 10px 10px rgba(0,0,0,0.4);
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-direction: column;
+    &__input {
+        background-color: white;
+        border-radius: 5px;
+        width: 90%;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        padding: 5px;
+        margin: 10px;
+        font-family: monospace;
+        border: black 4px solid;
+    }
+}
