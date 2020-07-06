@@ -10,5 +10,5 @@ app.get('/play', (_req, res) => {
     res.status(201).send(question.pop());
 });
 
-app.listen(8080, console.log('listening on port 8080'));
+app.listen(process.env.PORT || 8080, console.log('listening on port 8080'));
 
